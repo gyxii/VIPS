@@ -1,5 +1,14 @@
-#wrap img {
+#wrap  {
     width: 100%;
+  
+}
+.img__inner {
+    margin: 0 auto;
+}
+#wrap img {
+   width: 700px;
+
    
-    text-align: center;
+   
+    
 }

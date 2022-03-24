@@ -1,14 +1,9 @@
 #wrap  {
-    width: 100%;
+    text-align: center;
   
-}
-.img__inner {
-    margin: 0 auto;
 }
 #wrap img {
    width: 700px;
 
-   
-   
     
 }
